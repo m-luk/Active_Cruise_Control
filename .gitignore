@@ -1,8 +1,11 @@
-*
+/*
 !simul.mlx
 !car_startup.m
 !car_model.slx
 !csv_import.m
 !data.csv
 !.gitignore
-!dokument.tex
+!/tex
+/tex/*
+!/tex/*.tex
+!/img
