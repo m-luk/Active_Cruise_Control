@@ -5,4 +5,5 @@ Systemów Mechatronicznych, poza podstawową funkcjonlanością tempomatu aktywn
 wykorzystuje on rozbudowany model symulacji pojazdu z symulacją zachowania skrzyni
 biegów oraz symulacją krzywej momentu.
 
+Opis zadania i modelu dostępny w [Sprawozdaniu](PSM_P2_Sprawozdanie.pdf)
 
